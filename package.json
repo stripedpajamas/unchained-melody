@@ -2,7 +2,7 @@
   "name": "unchained-melody",
   "version": "1.0.0",
   "description": "markov chain sentence generator",
-  "main": "index.js",
+  "main": "builder.js",
   "bin": {
     "unchained-melody": "index.js"
   },
