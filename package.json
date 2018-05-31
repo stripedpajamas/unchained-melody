@@ -1,0 +1,26 @@
+{
+  "name": "unchained-melody",
+  "version": "1.0.0",
+  "description": "markov chain sentence generator",
+  "main": "index.js",
+  "bin": {
+    "unchained-melody": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stripedpajamas/unchained-melody.git"
+  },
+  "keywords": [
+    "markov",
+    "chain"
+  ],
+  "author": "Peter Squicciarini <stripedpajamas273@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stripedpajamas/unchained-melody/issues"
+  },
+  "homepage": "https://github.com/stripedpajamas/unchained-melody#readme"
+}
