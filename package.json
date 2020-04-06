@@ -6,6 +6,9 @@
   "bin": {
     "unchained-melody": "index.js"
   },
+  "dependencies": {
+    "atomoize": "^1.0.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
